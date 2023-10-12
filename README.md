@@ -7,11 +7,10 @@
   
   
   <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-- 🌱 I’m currently a Computer Science undergrad at Georgia Tech <br />
-- 📚 I have extensive experience with Data Science and Machine Learning, having worked on many projects in the past, and continually learning new topics as much as I can. Yet, I still have a lot to learn, and that is what keeps me going and interested in the first place!  <br />
+- 🌱 I’m a Computer Science undergrad at Georgia Tech <br />
+- 📚 I have extensive experience with Mobile and Web Development, Data Science, and Machine Learning, having worked on many projects in the past, and continually learning new topics as much as I can. Yet, I still have a lot to learn, and that is what keeps me going and interested in the first place!  <br />
 - 💻 I have recently started gaining experience in full-stack development, by developing applications and working on cool projects!  <br />
-- 🔬 I have research experience developing a PWA for a malaria early warning system during an NSF funded summer research program, using Python for signal processing at a Bio-engineering lab.  <br />
+- 🔬 I have research experience developing a PWA for a malaria early warning system during an NSF funded summer research program, using Python for signal processing at a Bio-engineering lab, and more!  <br />
 - 💪 I am strongly proficient in both object-oriented and functional programming languages such as Python, Java, JavaScript, C/C++, and more... <br />
 - 👯 I would love to collaborate on any interesting projects, to learn new things and work with talented people.  <br />
-- 👀 I’m looking for a software engienering internships for Summer 2023.  <br />
 - 🗣  I always love meeting and getting to know new people, so feel free to reach out!
